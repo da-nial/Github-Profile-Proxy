@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This project is a web application that enables users to search for GitHub profiles using usernames. The application retrieves and displays user information, including avatars, names, blog links, locations, bios, and favorite programming languages based on repository languages. It employs local storage for caching data and minimizing API calls.
+This super simple web application enables users to search for GitHub profiles using usernames. The application retrieves and displays user information, including avatars, names, blog links, locations, bios, and favorite programming languages based on the languages used in their repositories. It employs local storage for caching data and minimizing API calls.
 
-This project was built with front-end technologies (HTML/CSS and JavaScript) as the midterm exam of Internet Engineering course at Amirkabir University of Technology, Spring 2020.
+The project was built with front-end technologies (HTML/CSS and JavaScript) as the midterm exam of Internet Engineering course at Amirkabir University of Technology, Spring 2020.
 
 ## How It Works
 
